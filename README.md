@@ -24,12 +24,12 @@ Los archivos de transmisión (transmission1.txt, transmission2.txt) contienen ca
 ### Parte 1
 Tu solución debe determinar si existen algunos de los códigos maliciosos en ambos archivos de transmisión. En caso de que se encuentre alguno de los códigos maliciosos, se desplegrará *true*, seguido de la posición en el archivo de transmisión donde inicia ese código malicioso. Por ejemplo:
 ```
-transmission1:
+transmission1.txt:
 code1.txt - true, start at position 10
 code2.txt - false
 code3.txt - true, start at position 789
 
-transmission2:
+transmission2.txt:
 code1.txt - true, start at position 8
 code2.txt - true, start at position 402
 code3.txt - true, start at position 2508
@@ -37,10 +37,10 @@ code3.txt - true, start at position 2508
 ### Parte 2
 Tu solución también debe considerar que pueden existe códigos maliciosos desconocidos que debemos buscar. Para simplificar nuestro trabajo y como una forma de diversión, los "amables" piratas informáticos han colocados estos códigos maliciosos nuevos en formato "espejeado" (o palídromos). Si tu solución encuentra un código malicioso de este estilo, debera desplegar en una sola línea en que posición inicia y termina el código "espejeado" más largo que ha encontrado. Puedes asumir que siempre encontrarás este tipo de código. Por ejemplo:
 ```
-transmission1:
+transmission1.txt:
 mirrored code found, start at 35, ended at 130
 
-transmission2:
+transmission2.txt:
 mirrored code found, start at 577, ended at 1765
 ```
 ### Parte 3
