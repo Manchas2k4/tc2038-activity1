@@ -44,9 +44,9 @@ transmission2.txt:
 mirrored code found, start at 577, ended at 1765
 ```
 ### Parte 3
-Finalmente, tu solución dede terminar que tan similares son los archivos de transmisión, desplegando la posición de inicio y fin en el primer archivo donde se encuentra la subcadena común más larga. Por ejemplo:
+Finalmente, tu solución debe determinar que tan similares son los archivos de transmisión, desplegando la longitud de la subcadena común más larga entre ambos archivos. Por ejemplo:
 ```
-the longest common substring starts at position 141 and ends at 399 in the transmission1.txt file
+the longest common substring between transmission1.txt and transmission2.txt is 517 characters long
 ```
 
 ## <span style="color: rgb(26, 99, 169);">**Entrada**</span>
