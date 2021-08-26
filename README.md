@@ -73,7 +73,7 @@ mirrored code found, start at 35, ended at 130
 transmission2:
 mirrored code found, start at 577, ended at 1765
 
-the longest common substring starts at position 141 and ends at 399 in the transmission1.txt file
+the longest common substring between transmission1.txt and transmission2.txt is 517 characters long
 ```
 
 <br>Todas las funcionalidades deberán de estar correctamente alineadas y documentadas.&nbsp; Recuerda que todas las funcionalidades deberán pasar exitosamente todas las pruebas. Como parte de la documentación deberá incluirse la complejidad de cada una de ellas.
