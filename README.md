@@ -91,8 +91,9 @@ Si el segundo comando no tiene ninguna salida, los resultados que obtuviste son 
 
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
 
-- **85%** - Genera la salida esperada.
-- **15%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
+- **75%** - Genera la salida esperada.
+- **20%** - El documento de reflexión incluye la explicación de diferentes algoritmos aplicados a esta situación problema, así como la complejidad computacional de cada uno de ellas.
+- **5%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
 
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 Cuando hayas pasado todas las pruebas, recuerda publicar el código en tu repositorio (*git push*).
