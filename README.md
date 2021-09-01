@@ -2,7 +2,7 @@
 # Actividad integradora 1
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
-Accede a la siguiente liga: [Act. 0](https://classroom.github.com/a/458xemuA) y acepta la tarea. Esto creará tu repositorio de trabajo. En él, encontrarás el archivo "main.cpp". En este archivo deberás desarrollar la implementación del problema presentado en esta actividad.  En la parte superior del archivo coloca, en comentarios, tus datos. Por ejemplo:
+Accede a la siguiente liga: [Actividad Integradora 1](https://classroom.github.com/a/n5fs_Sy0) y acepta la tarea. Esto creará tu repositorio de trabajo. En él, encontrarás el archivo "main.cpp". En este archivo deberás desarrollar la implementación del problema presentado en esta actividad.  En la parte superior del archivo coloca, en comentarios, tus datos. Por ejemplo:
 ```
 // =========================================================
 // File: main.cpp
