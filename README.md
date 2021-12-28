@@ -99,3 +99,6 @@ Si el segundo comando no tiene ninguna salida, los resultados que obtuviste son 
 
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 Cuando hayas pasado todas las pruebas, recuerda publicar el código en tu repositorio (*git push*).
+
+## <span style="color: rgb(26, 99, 169);">**Importante**</span>
+Recuerda colocar el nombre y las matrículas de ambos integrantes en en los comentarios iniciales. En caso de que se incumpla este punto, se penalizará con 20 puntos sobre la calificación obtenida.
