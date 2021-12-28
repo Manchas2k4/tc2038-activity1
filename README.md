@@ -2,15 +2,17 @@
 # Actividad integradora 1
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
-Accede a la siguiente liga: [Actividad Integradora 1](https://classroom.github.com/a/n5fs_Sy0) y acepta la tarea. Esto creará tu repositorio de trabajo. En él, encontrarás el archivo "main.cpp". En este archivo deberás desarrollar la implementación del problema presentado en esta actividad.  En la parte superior del archivo coloca, en comentarios, tus datos. Por ejemplo:
+En este repositorio encontrarás el archivo "main.cpp". En este archivo deberás desarrollar la implementación del problema presentado en esta actividad. En la parte superior del archivo coloca, en comentarios, tus datos. Por ejemplo:
 ```
 // =========================================================
 // File: main.cpp
-// Author: Edward Elric - A00123456
+// Authors:
+//  Edward Elric - A00123456
+//  Alphonse Elric - A00124598
 // Date: 01/01/2021
 // =========================================================
 ```
-Implementa, <span style="text-decoration-line: underline;">forma individual</span>, un programa que lea 5 archivos de texto:
+Implementa, <span style="text-decoration-line: underline;">en equipos de 2 personas (máximo)</span>, un programa que lea 5 archivos de texto:
 - transmission1.text
 - transmission2.text
 - mcode1.text
@@ -44,9 +46,9 @@ transmission2.txt:
 mirrored code found, start at 577, ended at 1765
 ```
 ### Parte 3
-Finalmente, tu solución debe determinar que tan similares son los archivos de transmisión, desplegando la longitud de la subsecuencia común más larga entre ambos archivos. Por ejemplo:
+Finalmente, tu solución debe determinar que tan similares son los archivos de transmisión, desplegando la longitud de la subcadena común más larga entre ambos archivos. Por ejemplo:
 ```
-the longest common subsequence between transmission1.txt and transmission2.txt is 517 characters long
+the longest common substring between transmission1.txt and transmission2.txt is 517 characters long
 ```
 
 ## <span style="color: rgb(26, 99, 169);">**Entrada**</span>
@@ -73,7 +75,7 @@ mirrored code found, start at 35, ended at 130
 transmission2:
 mirrored code found, start at 577, ended at 1765
 
-the longest common substring between transmission1.txt and transmission2.txt is 517 characters long
+the longest common substring between transmission1.txt and transmission2.txt is 517 characters lon
 ```
 
 <br>Todas las funcionalidades deberán de estar correctamente alineadas y documentadas.&nbsp; Recuerda que todas las funcionalidades deberán pasar exitosamente todas las pruebas. Como parte de la documentación deberá incluirse la complejidad de cada una de ellas.
