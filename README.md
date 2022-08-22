@@ -13,8 +13,8 @@ En este repositorio encontrarás el archivo "main.cpp". En este archivo deberás
 // =========================================================
 ```
 Implementa, <span style="text-decoration-line: underline;">en equipos de 2 personas (máximo)</span>, un programa que lea 5 archivos de texto:
-- transmission1.text
-- transmission2.text
+- transmission1.txt
+- transmission2.txt
 - mcode1.text
 - mcode2.text
 - mcode3.text
