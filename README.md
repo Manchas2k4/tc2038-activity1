@@ -15,9 +15,9 @@ En este repositorio encontrarás el archivo "main.cpp". En este archivo deberás
 Implementa, <span style="text-decoration-line: underline;">en equipos de 2 personas (máximo)</span>, un programa que lea 5 archivos de texto:
 - transmission1.txt
 - transmission2.txt
-- mcode1.text
-- mcode2.text
-- mcode3.text
+- mcode1.txt
+- mcode2.txt
+- mcode3.txt
 
 Todos los archivo contiene exclusivamente carácteres del 0 al 9 y de la A a la F.
 
